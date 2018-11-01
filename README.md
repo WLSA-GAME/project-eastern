@@ -1,1 +1,1 @@
-# project-eastern
+# Project Eastern
